@@ -1,0 +1,3 @@
+# Module extoix_prototype
+# RPC service class, partial path of RPC policy file
+com.extoix.prototype.client.GreetingService, 6A51246D5AD66DF63550B5D718D8FE2F.gwt.rpc

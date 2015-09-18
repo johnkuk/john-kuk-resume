@@ -1,0 +1,2 @@
+serviceClass: com.extoix.kuk.client.GreetingService
+path: A43F344D3DDFE23A7E9ACD0B34D4AA26.gwt.rpc

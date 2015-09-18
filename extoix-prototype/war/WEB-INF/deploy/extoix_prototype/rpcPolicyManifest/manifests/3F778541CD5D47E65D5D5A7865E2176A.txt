@@ -1,0 +1,2 @@
+serviceClass: com.extoix.prototype.client.GreetingService
+path: 6A51246D5AD66DF63550B5D718D8FE2F.gwt.rpc
