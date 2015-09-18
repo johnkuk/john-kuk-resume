@@ -1,2 +1,3 @@
 # Module john_kuk
 # RPC service class, partial path of RPC policy file
+com.extoix.kuk.client.GreetingService, A43F344D3DDFE23A7E9ACD0B34D4AA26.gwt.rpc
