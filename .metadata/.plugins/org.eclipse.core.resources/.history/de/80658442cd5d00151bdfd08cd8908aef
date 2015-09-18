@@ -236,30 +236,34 @@
 									<h4>12/2000</h4>
 								</div>
 							</div>
-							<ul>
-								<li>Bachelor of Science - Applied Computer Science, specializing in Computer Information Systems & Systems Analysis with a minor in Business Administration</li>
-								<li>Trained two years in Army Reserve Officers’ Training Crops, Military Science, and awarded academic scholarship as well as received a citation and medal for outstanding achievement and exceptional leadership ability</li>
-							</ul>
+							<p>Bachelor of Science - Applied Computer Science,
+								specializing in Computer Information Systems & Systems Analysis
+								with a minor in Business Administration</p>
+							<p>Trained two years in Army Reserve Officers’ Training Crops,
+								Military Science, and awarded academic scholarship as well as
+								received a citation and medal for outstanding achievement and
+								exceptional leadership ability</p>
 	
 							<div class="row">
 								<div class="span9">
 									<br />
 									<h4>Continued Education</h4>
-									<ul>
-										<li>Udacity - Android Development Nanodegree</li>
-										<li>Mulesoft - Mule ESB 3 Training</li>
-										<li>Springsource - Spring Foundation Training</li>
-										<li>IBM - WebSphere Message Broker V6.0/6.1 Development Workshop</li>
-										<li>Sun Microsystems - Foundations of Sun Java Composite Application Platform Suite</li>
-										<li>BEA - WebLogic Integration 8.1/8.5</li>
-										<li>IBM - WebSphere Integration Developer & Process Server</li>
-										<li>IBM - AIX Korn and bash Shell Programming</li>
-										<li>IBM - WebSphere Business Integration Server</li>
-										<li>IBM - MQ Adapter Offering (MQAO)</li>
-										<li>Siebel -  Configuration Using Siebel Tools for 2000, 6.1, 7.0, 7.7</li>
-										<li>IBM - DB2 Developer Training</li>
-										<li>IBM - MQ Series Training</li>
-									</ul>
+									<p>IBM WebSphere Message Broker V6.0/6.1 Development
+										Workshop</p>
+									<p>Foundations of Sun Java Composite Application Platform
+										Suite</p>
+									<p>BEA WebLogic Integration 8.1/8.5</p>
+									<p>IBM WebSphere Integration Developer & Process Server</p>
+									<p>IBM AIX Korn and bash Shell Programming</p>
+									<p>IBM WebSphere Business Integration Server</p>
+									<p>IBM MQ Adapter Offering (MQAO)</p>
+									<p>Siebel Configuration Using Siebel Tools for 2000, 6.1,
+										7.0, 7.7</p>
+									<p>IBM DB2 Developer Training</p>
+									<p>IBM MQ Series Training</p>
+									<p>Springsource Spring Foundation Training</p>
+									<p>Mulesoft Mule ESB 3 Training</p>
+									<p>Undergoing Udacity Nanodegree in Android development</p>
 								</div>
 							</div>
 						</div>
@@ -270,16 +274,15 @@
 							<h1>Miscellaneous</h1>
 						</div>
 						<h4>Professional Societies</h4>
-						<ul>
-							<li>McLean County Unit District No. 5 Citizens Advisory Council, research Smart Classroom Technologies (2013-2014)</li>
-							<li>Accenture Master Technology Architect Program, Technology Architect certified as having acquired and demonstrated necessary base skills and experience in the design and delivery of components of technology architecture.  Obtained certification May of 2008.</li>
-						</ul>
+						<p>Accenture Master Technology Architect Program, Technology
+							Architect certified as having acquired and demonstrated necessary
+							base skills and experience in the design and delivery of
+							components of technology architecture. Obtained certification May
+							of 2008.</p>
 						<br />
 	
 						<h4>Activities and Hobbies</h4>
-						<ul>
-							<li>Android development, Arduino tinkering, rock climbing, table top board games, TaeKwonDo, running, fishing, snowboarding, welding, Highmark Caring Place, Habitat for Humanity</li>
-						</ul>
+						<p>Spending time with my daughter, Android development, Arduino tinkering, rock climbing, TaeKwonDo, running, fishing, snowboarding, welding, table top board games</p>
 						<br />
 						
 						<h4>My Resume Technologies</h4>

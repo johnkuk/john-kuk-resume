@@ -2,6 +2,4 @@
 	text-align: center;
 }
 
-ul li { 
-	padding: 5px 0px; 
-}
+ul li { padding: 5px 0px; }
